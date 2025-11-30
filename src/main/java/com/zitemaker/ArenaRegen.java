@@ -55,7 +55,7 @@ public class ArenaRegen extends JavaPlugin{
     public int customRegenSpeed;
     public int analyzeSpeed;
     public int arenaSize;
-    public int maxArenas = 8;
+    public int maxArenas = 999;
     public boolean confirmationPrompt;
     public boolean trackEntities;
     public boolean regenOnlyModified;
